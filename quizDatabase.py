@@ -448,10 +448,3 @@ def logSignBtn():
 logSignBtn()
 
 gui.mainloop()
-
-
-
-# Shivraj
-# shivraj@gmail.com
-# Shivraj24
-# Shivraj@1234
