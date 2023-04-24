@@ -1,0 +1,89 @@
+{
+    "question": [
+        "Q1. Who developed Python Programming Language?",
+        "Q2. Which type of Programming does Python support?",
+        "Q3. Is Python case sensitive when dealing with identifiers?",
+        "Q4. Which of the following is the correct extension of the Python file?",
+        "Q5. All keywords in Python are in",
+        "Q6.  Which of the following is used to define a block of code in Python language?",
+        "Q7. Which keyword is used for function in Python language?",
+        "Q8. Which of the following character is used to give single-line comments in Python?",
+        "Q9. What does pip stand for python?",
+        "Q10. Which of the following functions is a built-in function in python?"
+    ],
+    "answer": [
+        3,
+        4,
+        2,
+        3,
+        4,
+        1,
+        2,
+        2,
+        3,
+        2
+    ],
+    "options": [
+        [
+            "Wick van Rossum",
+            "Rasmus Lerdorf",
+            "Guido van Rossum",
+            "Niene Stom"
+        ],
+        [
+            "Object-oriented programming",
+            "Structured programming",
+            "Functional programming",
+            "All of the mentioned"
+        ],
+        [
+            "No",
+            "Yes",
+            "Machine dependent",
+            "None of the mentioned"
+        ],
+        [
+            ".python",
+            ".pl",
+            ".py",
+            ".p"
+        ],
+        [
+            "Capitalized",
+            "Lower Case",
+            "Upper Case",
+            "None of the mentioned"
+        ],
+        [
+            "Indentation",
+            "Key",
+            "Brackets",
+            "All of the mentioned"
+        ],
+        [
+            "Function",
+            "def",
+            "function",
+            "Define"
+        ],
+        [
+            "//",
+            "#",
+            "<!-- -->",
+            "/*"
+        ],
+        [
+            "Pip Installs Python",
+            "Pip Installs Packages",
+            "Preferred Installer Program",
+            "All of the mentioned"
+        ],
+        [
+            "factorial()",
+            "print()",
+            "seed()",
+            "sqrt()"
+        ]
+        
+    ]
+}
