@@ -259,7 +259,7 @@ def submitFormSign():
      else:
           try:
              global mydb
-             mydb = mysql.connector.connect(host="localhost", user="root",      passwd="Shivraj#2501")
+             mydb = mysql.connector.connect(host="localhost", user="root",passwd="root")
             #  global mycursor
              mycursor = mydb.cursor()  
              print("Connected....!!!!!!!")   
@@ -313,7 +313,7 @@ def submitFormLogin():
         try:
              global mydb,mycursor
              mydb = mysql.connector.connect(
-                 host="localhost", user="root",passwd="Shivraj#2501",database="userdata")
+                 host="localhost", user="root",passwd="root",database="userdata")
              global mycursor
              mycursor = mydb.cursor()
              print("Login connected...!!!!!")
